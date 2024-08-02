@@ -7,3 +7,4 @@
 5. All possible permutations
 6. All binary search trees
 7. Replace pixel's color
+8. Convert into an Egyptian fraction
