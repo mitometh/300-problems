@@ -8,3 +8,4 @@
 6. All binary search trees
 7. Replace pixel's color
 8. Convert into an Egyptian fraction
+9. Smallest number of steps it will take to reach 1
