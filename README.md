@@ -10,3 +10,4 @@
 8. Convert into an Egyptian fraction
 9. Smallest number of steps it will take to reach 1
 10. Multiple Unit converter
+11. The nth number in the Fibonacci sequence
